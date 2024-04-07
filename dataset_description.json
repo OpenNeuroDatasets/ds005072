@@ -2,7 +2,7 @@
     "Name": "test",
     "BIDSVersion": "1.9.0",
     "DatasetType": "raw",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "jessica"
     ],
@@ -11,7 +11,7 @@
     "Funding": [],
     "EthicsApprovals": [],
     "ReferencesAndLinks": [],
-    "DatasetDOI": "",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005072.v1.0.0",
     "SourceDatasets": [],
     "GeneratedBy": [
         {
